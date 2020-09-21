@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/marker.png</file>
+        <file>assets/pencil.png</file>
+        <file>SButton.qml</file>
+        <file>assets/plus.png</file>
+        <file>Home.qml</file>
+        <file>assets/cross.png</file>
+        <file>geofind.js</file>
+    </qresource>
+</RCC>
